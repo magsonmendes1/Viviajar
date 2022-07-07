@@ -1,0 +1,115 @@
+.logomenu {
+    width: 40px;
+    height: 40px;
+
+}
+
+.banner img {
+    width: 100%;
+    height: 350px;
+}
+
+.main {
+    margin-top: -50px;
+}
+
+.content {
+    border-radius: 5px;
+    background-color: white;
+}
+
+.search {
+    margin-top: 20px;
+}
+
+.title {
+    margin: 30px 0 50px 0;
+}
+
+.mini-banner {
+    margin: 50px 0;
+    width: 100%;
+    height: 120px;
+    background-color: grey;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 30px 0;
+    background-position: center;
+}
+
+footer {
+    background: #181818;
+    color: white;
+    padding: 50px 0;
+}
+
+.logofooter {
+    width: 150px;
+    height: 150px;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: white;
+}
+
+footer .redesociais img {
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+
+footer .copy {
+    text-align: center;
+    padding: 30px 0;
+}
+
+/*pagina promocoes.html*/
+.tachado {
+    text-decoration: line-through;
+}
+
+.enfoque {
+    color: red;
+    font-weight: bold;
+}
+
+/*pagina destinos.html*/
+.banner-destino {
+    width: 100%;
+    height: 120px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 30px 0;
+    background-position: center;
+}
+
+.banner-destino h2 {
+    color: white;
+
+}
+
+.banner-destino a {}
+
+/*pagina contato.html*/
+
+.contatos img {
+    height: 20px;
+    width: 20px;
+}
